@@ -1,3 +1,4 @@
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Glass+Antiqua&size=35&pause=1000&color=F2F7CD&width=435&lines=Not+all+those+who+wander+are+lost)](https://git.io/typing-svg)
 
 *"If you've got enough time to fantasize about a beautiful death, why not live beautifully until the very end?"*
