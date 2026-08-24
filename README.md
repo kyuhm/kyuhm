@@ -5,4 +5,5 @@
 ### Currently Learning
 <p>
   <img src="https://skillicons.dev/icons?i=r" alt="R Logo" />
+  <img src="https://skillicons.dev/icons?i=r,sqlite,py,git,github" />
 </p>
