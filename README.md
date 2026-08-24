@@ -6,5 +6,7 @@
 ### Currently Learning
 <p>
   <img src="https://skillicons.dev/icons?i=r,sqlite,py,git,github" />
- <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f3a8.png" width="48" height="48" style="border-radius: 12px;" alt="MediBang Paint" />
+ <a href="https://medibangpaint.com/" target="_blank">
+  <img src="https://medibangpaint.com/wp-content/uploads/2021/06/apple-touch-icon.png" width="48" height="48" style="border-radius: 10px;" alt="MediBang Paint" />
+</a>
 </p>
