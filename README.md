@@ -1,5 +1,6 @@
 
-*"If you've got enough time to fantasize about a beautiful death, why not live beautifully until the very end?"*
+*"If you've got enough time to fantasize about a beautiful death,
+why not live beautifully until the very end?"*
 — **Sakata Gintoki , Gintama**
 
 ### Currently Learning
