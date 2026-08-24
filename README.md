@@ -1,2 +1,2 @@
-# About me 
-*Statistic Student at the UFPR 
+# About me 🍵
+* Statistic Student at UFPR
