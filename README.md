@@ -6,5 +6,5 @@
 ### Currently Learning
 <p>
   <img src="https://skillicons.dev/icons?i=r,sqlite,py,git,github" />
-  <img src="https://skillicons.dev/icons?i=krita" alt="Krita Logo" />
+  <img src="https://skillicons.dev/icons?i=krita" alt="Design Tools" />
 </p>
