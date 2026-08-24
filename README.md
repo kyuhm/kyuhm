@@ -4,6 +4,6 @@
 
 ### Currently Learning
 <p>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Logo" />
+  <img src="https://img.shields.io/badge/R-A01B00?style=for-the-badge&logo=r&logoColor=white" alt="R Logo" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Logo" />
 </p>
