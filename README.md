@@ -1,3 +1,3 @@
-# About me 🍵
-* Statistic Student at UFPR
-* Interested in Data Science and random curiosities ✿
+# Hallo 🍵
+📊 Statistic Student at UFPR , Brazil
+🍓Interested in Data Science and random curiosities ✿
