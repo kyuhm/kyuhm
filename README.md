@@ -6,5 +6,5 @@
 ### Currently Learning
 <p>
   <img src="https://skillicons.dev/icons?i=r,sqlite,py,git,github" />
-  <img src="https://skillicons.dev/icons?i=krita" alt="Design Tools" />
+ <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f3a8.png" width="48" height="48" style="border-radius: 12px;" alt="MediBang Paint" />
 </p>
